@@ -3,5 +3,4 @@
 
 	<include file="changelog/dbchangelog-1.xml"/>
 	<include file="changelog/dbchangelog-2.xml"/>
-	<include file="changelog/dbchangelog-3.xml"/>
 </databaseChangeLog>
